@@ -1,0 +1,33 @@
+
+
+.tcontainer{
+    width:800px;
+    text-align: center;
+    margin: 30px auto;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #030000;
+    text-align: center;
+    padding: 8px;
+  }
+  th{
+    background-color: rgb(4, 15, 42);
+    color:white;
+  }
+   .tbutton {
+    background-color: blue;
+    color:white;
+    padding:2px;
+    font-size: 12px;
+    margin:3px;
+    width:70px;
+    border-radius:30px;
+  }
+  
+
